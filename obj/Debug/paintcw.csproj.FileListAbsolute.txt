@@ -1,0 +1,10 @@
+G:\project\CSH\paintcw\bin\Debug\paintcw.exe.config
+G:\project\CSH\paintcw\bin\Debug\paintcw.exe
+G:\project\CSH\paintcw\bin\Debug\paintcw.pdb
+G:\project\CSH\paintcw\obj\Debug\paintcw.csproj.AssemblyReference.cache
+G:\project\CSH\paintcw\obj\Debug\paintcw.Form1.resources
+G:\project\CSH\paintcw\obj\Debug\paintcw.Properties.Resources.resources
+G:\project\CSH\paintcw\obj\Debug\paintcw.csproj.GenerateResource.cache
+G:\project\CSH\paintcw\obj\Debug\paintcw.csproj.CoreCompileInputs.cache
+G:\project\CSH\paintcw\obj\Debug\paintcw.exe
+G:\project\CSH\paintcw\obj\Debug\paintcw.pdb
